@@ -1,2 +1,2 @@
-# jackpot
+# jackpot-web
 jackpot web
